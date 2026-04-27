@@ -9,6 +9,7 @@ This project implements an Eco-Hydra Control System using Reinforcement Learning
 Efficient water management is important for smart cities and environmental sustainability. Traditional control systems use fixed rules, but this project uses Reinforcement Learning to dynamically control the system based on environmental conditions and system states.
 
 The RL agent interacts with the environment and learns optimal actions to maximize efficiency and minimize resource wastage.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/423050e7-03ca-41f6-9995-b1452e4cbee3" />
 
 ## Key Concepts
 - Reinforcement Learning
